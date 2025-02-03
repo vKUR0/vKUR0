@@ -7,6 +7,7 @@ Hi! **vKUR0** here!
 - 🎓 Engineering student in computer science
 - 💻 Passionate developer
 - 🔍 Always looking for new knowledge and innovative projects
+- ✈️  Travel lover who wants to discover the world
 
 ## 🛠️ Technologies & Tools
 
