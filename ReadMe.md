@@ -4,7 +4,7 @@ Hi! **vKUR0** here!
 
 ## 💡 About Me
 
-- 🎓 Engineering student in computer science
+- 🎓 Engineer student in computer science
 - 💻 Passionate developer
 - 🔍 Always looking for new knowledge and innovative projects
 - ✈️  Travel lover who wants to discover the world
