@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👋
+<# Welcome to my GitHub! 👋
 
 Hi! **vKUR0** here!
 
@@ -12,13 +12,17 @@ Hi! **vKUR0** here!
 ## 🛠️ Technologies & Tools
 
 ✨ **Languages & Frameworks**
-- Python, JavaScript, TypeScript
-- React, Node.js, Vue.js
+- Python, JavaScript
+- Node.js
 - C, C++, Java
+- Databases (SQL)
 
 🖥️ **Other Skills**
 - Git/GitHub
-- Databases (SQL)
+- English mastery
+- Japanese and korean notions
+- Good Tracer
+- Amazing Mid Laner (can fill top and support)
 
 ## 📌 Featured Projects
 
