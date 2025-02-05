@@ -34,5 +34,3 @@ hey I need to begin somewhere but first begin
 💼 **LinkedIn**: [My Profile](#)
 🐦 **Twitter**: [@vKUR0](#)
 📧 **Email**: `newfox1881@gmail.com`
-
-🚀 Feel free to explore my repositories and collaborate on exciting projects!
