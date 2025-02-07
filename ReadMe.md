@@ -35,4 +35,4 @@ hey I need to begin somewhere but first begin
 🐦 **Twitter**: [@vKUR0](#)
 📧 **Email**: `newfox1881@gmail.com`
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKUR0&theme=tokyonight
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKUR0&theme=tokyonight)
