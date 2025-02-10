@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👋
+# Welcome to my GiTEUB! 👋
 
 Hi! **vKUR0** here!
 
