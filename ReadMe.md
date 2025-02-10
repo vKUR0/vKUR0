@@ -36,5 +36,3 @@ hey I need to begin somewhere but first begin
 📧 **Email**: `newfox1881@gmail.com`
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKUR0&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKUR0&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKUR0&theme=tokyonight)
